@@ -1,0 +1,6 @@
+X:\Восточно-кругликовская\+дисциплины Алексеева М.В\ИСП5\юдин иван\fff\fff\obj\Debug\fff.csproj.AssemblyReference.cache
+X:\Восточно-кругликовская\+дисциплины Алексеева М.В\ИСП5\юдин иван\fff\fff\obj\Debug\fff.csproj.SuggestedBindingRedirects.cache
+X:\Восточно-кругликовская\+дисциплины Алексеева М.В\ИСП5\юдин иван\fff\fff\obj\Debug\fff.Form1.resources
+X:\Восточно-кругликовская\+дисциплины Алексеева М.В\ИСП5\юдин иван\fff\fff\obj\Debug\fff.Properties.Resources.resources
+X:\Восточно-кругликовская\+дисциплины Алексеева М.В\ИСП5\юдин иван\fff\fff\obj\Debug\fff.csproj.GenerateResource.cache
+X:\Восточно-кругликовская\+дисциплины Алексеева М.В\ИСП5\юдин иван\fff\fff\obj\Debug\fff.csproj.CoreCompileInputs.cache
